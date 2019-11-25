@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeCurrencyConverter</string>
+    <string name="currencyEditTxtHint">Enter amount in £</string>
+</resources>
